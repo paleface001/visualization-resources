@@ -19,3 +19,6 @@
 * Beyond Interactive: Notebook Innovation at Netflix [url](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 
 * Designing the nteract Data Explorer [url](https://blog.nteract.io/designing-the-nteract-data-explorer-f4476d53f897)
+
+* 使用L系统可视化TWITTER数据：Visualizing Toxicity in Twitter Conversations [url](https://medium.com/cortico/visualizing-toxicity-in-twitter-conversations-3cd336e5db81)
+![](https://cdn.nlark.com/lark/0/2018/jpeg/101986/1534993634298-2e1ab801-6eb8-418e-be03-bcc6a6ee9be4.jpeg)
