@@ -13,13 +13,12 @@
 
 * **exolorable explanations**  ( https://explorabl.es/ ) like nicky case
 * **Complexity Explorables** （ http://www.complexity-explorables.org/ ） 
-![](https://cdn.nlark.com/lark/0/2018/png/101986/1536747847609-baeca92f-bf45-4294-827d-36885229a7f0.png)
+![](https://cdn.nlark.com/lark/0/2018/png/101986/1536747995475-261a0764-db4f-4bfb-b2c0-c0940ee635af.png)
 
 
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns)  
-![](https://cdn.nlark.com/lark/0/2018/png/101986/1536747718769-fe592a07-adea-474c-82e9-d2148c8f4817.png)
 
 
 ## whatever
