@@ -7,6 +7,8 @@
 
 * **Amy Cesal** ( http://www.amycesal.com/day-doh-viz-all/ )  G2扩展到3D可以考虑这种形式
 
+* **Interactive recreation of an 1821 color guidebook** （ https://www.c82.net/werner/#intro ） 
+
 
 
 ## lib
