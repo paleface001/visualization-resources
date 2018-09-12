@@ -2,12 +2,14 @@
 
 ## figure
 
-* **driven by data** [url](https://driven-by-data.net/) by Gregor Aisch ( new york times / data wrapper )
+* **driven by data** [url](https://driven-by-data.net/) by Gregor Aisch ( newyork times / data wrapper )
 ![](https://cdn.nlark.com/lark/0/2018/jpeg/101986/1533723386333-eaf1fc8d-31cd-4952-9be7-6824b81e1c0d.jpeg?raw=true)
 
 * **Amy Cesal** ( http://www.amycesal.com/day-doh-viz-all/ )  G2扩展到3D可以考虑这种形式
 
 * **Interactive recreation of an 1821 color guidebook** （ https://www.c82.net/werner/#intro ） 
+
+* **style.org** ( http://style.org/ )  information designer from newyork times, scientific visualization 
 
 
 
