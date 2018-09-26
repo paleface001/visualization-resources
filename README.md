@@ -26,6 +26,8 @@
 
 * **bird sound visualization** ( https://experiments.withgoogle.com/ai/bird-sounds/view/ )
 
+* **how to choose a right chart type** ( http://extremepresentation.typepad.com/.shared/image.html?/photos/uncategorized/choosing_a_good_chart.jpg )
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns)  
