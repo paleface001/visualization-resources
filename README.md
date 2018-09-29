@@ -29,7 +29,7 @@
 * **how to choose a right chart type** ( http://extremepresentation.typepad.com/.shared/image.html?/photos/uncategorized/choosing_a_good_chart.jpg )
 
 * **Coral Cities: An Ito Design Lab Concept**  （ https://towardsdatascience.com/coral-cities-an-ito-design-lab-concept-c01a3f4a2722 ）
-[url](https://cdn-images-1.medium.com/max/2000/1*xrqO7lpwTcbCaKttwQZ5UA.jpeg)
+![](https://cdn-images-1.medium.com/max/2000/1*xrqO7lpwTcbCaKttwQZ5UA.jpeg)
 
 
 ## lib
