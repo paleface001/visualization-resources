@@ -33,6 +33,8 @@
 
 * **grow.paris** (https://www.instagram.com/grow.paris/)
 
+* **microsoft charticulator** ( https://charticulator.com/index.html )  图表智能布局，database和色板也不错
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns)  
