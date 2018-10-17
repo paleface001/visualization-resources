@@ -18,6 +18,8 @@
 
 * **hurricane tracker** ( https://www.axios.com/hurricane-florence-north-south-carolina-catastrophic-848f2414-50e1-49b8-9f2d-24ce59b0b78d.html )
 
+* **how you visualize hurricanes** ( http://www.storytellingwithdata.com/blog/2017/10/1/how-youd-visualize-hurricanes )
+
 * **number universe** ( https://johnhw.github.io/umap_primes/index.md.html )
 
 * **xeno graphics** ( https://xeno.graphics/ )
