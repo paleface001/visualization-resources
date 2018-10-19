@@ -38,6 +38,7 @@
 * **microsoft charticulator** ( https://charticulator.com/index.html )  图表智能布局，database和色板也不错
 
 * **Federica Fragapane** ( https://www.behance.net/FedericaFragapane )
+* **Multiplicity - A collective photographic city portrait** （ http://truth-and-beauty.net/projects/multiplicity ）
 
 
 ## lib
