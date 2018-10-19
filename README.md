@@ -45,7 +45,8 @@
 
 
 ## lib
-* 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns)  
+* 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
+* 风格化2 （ https://github.com/pshihn/rough ）
 
 
 ## whatever
