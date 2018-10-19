@@ -38,7 +38,10 @@
 * **microsoft charticulator** ( https://charticulator.com/index.html )  图表智能布局，database和色板也不错
 
 * **Federica Fragapane** ( https://www.behance.net/FedericaFragapane )
+
 * **Multiplicity - A collective photographic city portrait** （ http://truth-and-beauty.net/projects/multiplicity ）
+
+* **How to build a dataviz in Augmented Reality** ( https://medium.com/google-news-lab/how-to-build-a-dataviz-in-augmented-reality-46333794eed8 )
 
 
 ## lib
