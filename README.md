@@ -41,6 +41,8 @@
 
 * **Multiplicity - A collective photographic city portrait** （ http://truth-and-beauty.net/projects/multiplicity ）
 
+* **Truth & Beauty** ( http://truth-and-beauty.net/projects ) 原来，之前看到的那么多project都是他家的，包括multiplicity
+
 * **How to build a dataviz in Augmented Reality** ( https://medium.com/google-news-lab/how-to-build-a-dataviz-in-augmented-reality-46333794eed8 )
 
 * **The Tree of Life** ( https://www.evogeneao.com/learn/tree-of-life )
