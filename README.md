@@ -54,6 +54,8 @@
 
 * **send me love-SFMOMA** ( https://lab.sfmoma.org/send-me-love/#/sendme/love/3 ) L system
 ![](https://cdn.nlark.com/yuque/0/2018/png/100996/1540981941541-d494f7db-16fe-4b43-a9b7-d0c9a9f09967.png)
+( https://www.sfmoma.org/read/send-me-love/ )
+( http://www.datasketch.es/february/ )
 
 * **How a meme grew into a campaign slogan** ( https://flowingdata.com/2018/11/05/how-a-meme-grew-into-a-campaign-slogan/ ) 对瓷器数据可视化的布局有借鉴意义
 
