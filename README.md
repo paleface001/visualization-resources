@@ -61,6 +61,9 @@
 
 * **Government Structure** （ http://govmaps.cid.hks.harvard.edu/ ） 关系数据可视化
 
+* **Coins - A Journey Through a Rich Cultural Collection** （ https://uclab.fh-potsdam.de/coins/ ） 很久没有看到这样的神作了，将博物馆珍藏的每颗coin的图像和经典图表结合起来。
+![](https://iibawards-prod.s3.amazonaws.com/projects/images/000/003/155/page.png?1536836131)
+
 
 
 
