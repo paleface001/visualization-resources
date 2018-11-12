@@ -71,6 +71,8 @@
 * **motiontable** ( http://foxcodex.html.xdomain.jp/index.html )
 ![](https://cdn.nlark.com/yuque/0/2018/png/100996/1541991632452-8ae2a679-f54d-438d-8777-93bda9fa0321.png)
 
+* **poly-area chart** ( https://alexkatona.blogspot.com/2018/09/polyarea-chart-using-d3js.html   https://www.informationisbeautifulawards.com/showcase/2996-polyarea-chart ) 一种新型的表示percentage change over time的图表
+
 
 
 
