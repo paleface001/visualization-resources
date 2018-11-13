@@ -64,7 +64,7 @@
 * **Coins - A Journey Through a Rich Cultural Collection** （ https://uclab.fh-potsdam.de/coins/ ） 很久没有看到这样的神作了，将博物馆珍藏的每颗coin的图像和经典图表结合起来。
 ![](https://iibawards-prod.s3.amazonaws.com/projects/images/000/003/155/page.png?1536836131)
 
-* **https://fifty.martinagency.com/** ( 时间轴的设计和交互，长时间、高精度时序数据的分段解决方案 ）
+* **https://fifty.martinagency.com/** 
 
 * **Google Arts & culture** （ https://artsexperiments.withgoogle.com/tsnemap ）
 
