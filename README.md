@@ -73,6 +73,10 @@
 
 * **poly-area chart** ( https://alexkatona.blogspot.com/2018/09/polyarea-chart-using-d3js.html   https://www.informationisbeautifulawards.com/showcase/2996-polyarea-chart ) 一种新型的表示percentage change over time的图表
 
+* **multi-views:Visualization research for non-researchers** ( https://medium.com/multiple-views-visualization-research-explained )
+
+* **UW Interactive Data Lab** ( https://medium.com/@uwdata )
+
 
 
 
