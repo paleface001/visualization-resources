@@ -79,6 +79,8 @@
 
 * **Urban Sensing** ( http://urban-sensing.eu/ ) 地理空间数据及可视化
 
+* **Years of life lost due to breathing bad air** （ https://www.washingtonpost.com/graphics/2018/national/health-science/lost-years/?utm_term=.9aa75a659977 ）
+
 
 
 
