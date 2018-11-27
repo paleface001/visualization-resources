@@ -85,6 +85,8 @@
 
 * **visualization and installation** ( https://www.behance.net/gallery/45282029/Border-City-London-Biennale-Mexico-Pavilion )
 
+* **Immersive Analytics** （ https://pdritsos.com/projects/ia/ ）
+
 
 
 
