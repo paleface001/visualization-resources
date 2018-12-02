@@ -87,7 +87,9 @@
 
 * **Making a Whimsical Data Visualization** （ https://medium.com/@KristinHenry/visualizing-videos-ea26bdf7d009 ）
 
-* **A biased tour of theuncertainty visualization zoo** （ http://www.mjskay.com/presentations/tapestry2018-uncertainty.pdf
+* **A biased tour of theuncertainty visualization zoo** （ http://www.mjskay.com/presentations/tapestry2018-uncertainty.pdf )
+
+* **Visualizing Ocean Shipping** ( http://sappingattention.blogspot.com/2012/04/visualizing-ocean-shipping.html )
 
 * **tempo: timeline** ( https://dribbble.com/shots/4313124-History-App-Animation )
 
