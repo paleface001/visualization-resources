@@ -91,6 +91,8 @@
 
 * **Visualizing Ocean Shipping** ( http://sappingattention.blogspot.com/2012/04/visualizing-ocean-shipping.html )
 
+* **时序数据，《物种起源的数次增删》** （ https://fathom.info/traces/ ）
+
 * **tempo: timeline** ( https://dribbble.com/shots/4313124-History-App-Animation )
 
 
