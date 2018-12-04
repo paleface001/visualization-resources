@@ -93,6 +93,10 @@
 
 * **时序数据，《物种起源的数次增删》** （ https://fathom.info/traces/ ）
 
+* **resourcetrade.earth** 地图配色，线的形状 （ https://resourcetrade.earth/data?year=2016&exporter=8&units=value ）
+
+* **3D故事版拿破仑东征图** （ https://1812.tass.ru/en#chapter2 ）
+
 * **tempo: timeline** ( https://dribbble.com/shots/4313124-History-App-Animation )
 
 
