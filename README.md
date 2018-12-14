@@ -103,6 +103,9 @@
 
 * **A new dawnin inter-Korean relations**  非常新颖的时序数据解决方案 ( http://graphics.reuters.com/INTERKOREA-RELATIONS/010041MD3JB/index.html )
 
+* **surprise map**  地图场景上的异常值展示 （ https://medium.com/@uwdata/surprise-maps-showing-the-unexpected-e92b67398865  ）
+（ http://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf ）
+
 * **tempo: timeline** ( https://dribbble.com/shots/4313124-History-App-Animation )
 * http://andrewpekler.com/phantom-islands/
 
