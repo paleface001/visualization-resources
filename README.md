@@ -132,3 +132,5 @@
 * **3 rules for Interactive data visualization** ( https://towardsdatascience.com/3-rules-for-interactive-data-visualizations-a-showcase-with-r-and-highcharts-e452f5c37f44 )
 
 * **Interaction Design for Data Visualization” talk Sources** ( https://medium.com/@milr0c/interaction-design-for-data-visualization-talk-sources-f8ccec2ca1a7 )
+
+* **Government Open Data Interaction Design Guide** ( https://medium.com/@Sarkyou/government-open-data-interaction-design-guide-63e3d0273cd2 )
