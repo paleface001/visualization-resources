@@ -126,3 +126,9 @@
 
 * 使用L系统可视化TWITTER数据：Visualizing Toxicity in Twitter Conversations [url](https://medium.com/cortico/visualizing-toxicity-in-twitter-conversations-3cd336e5db81)
 ![](https://cdn.nlark.com/lark/0/2018/jpeg/101986/1534993634298-2e1ab801-6eb8-418e-be03-bcc6a6ee9be4.jpeg)
+
+## interactive visualization
+
+* **3 rules for Interactive data visualization** ( https://towardsdatascience.com/3-rules-for-interactive-data-visualizations-a-showcase-with-r-and-highcharts-e452f5c37f44 )
+
+* **Interaction Design for Data Visualization” talk Sources** ( https://medium.com/@milr0c/interaction-design-for-data-visualization-talk-sources-f8ccec2ca1a7 )
