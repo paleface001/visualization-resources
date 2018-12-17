@@ -134,3 +134,5 @@
 * **Interaction Design for Data Visualization” talk Sources** ( https://medium.com/@milr0c/interaction-design-for-data-visualization-talk-sources-f8ccec2ca1a7 )
 
 * **Government Open Data Interaction Design Guide** ( https://medium.com/@Sarkyou/government-open-data-interaction-design-guide-63e3d0273cd2 )
+
+* **Designing Data-Driven Interfaces** ( https://blog.truthlabs.com/designing-data-driven-interfaces-a75d62997631 )
