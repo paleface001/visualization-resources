@@ -108,6 +108,8 @@
 
 * **THE FIRST SIX BOOKS OF THE ELEMENTS OF EUCLID** ( https://www.c82.net/euclid/ )
 
+* **casting shakespare** ( https://ericwilliamlin.com/shakespeare_production_data/ )
+
 * **tempo: timeline** ( https://dribbble.com/shots/4313124-History-App-Animation )
 * http://andrewpekler.com/phantom-islands/
 
