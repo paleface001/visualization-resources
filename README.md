@@ -133,12 +133,7 @@
 
 * tsne - layout  ( https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e )
 
-## interactive visualization
 
-* **3 rules for Interactive data visualization** ( https://towardsdatascience.com/3-rules-for-interactive-data-visualizations-a-showcase-with-r-and-highcharts-e452f5c37f44 )
+## designer
 
-* **Interaction Design for Data Visualization” talk Sources** ( https://medium.com/@milr0c/interaction-design-for-data-visualization-talk-sources-f8ccec2ca1a7 )
-
-* **Government Open Data Interaction Design Guide** ( https://medium.com/@Sarkyou/government-open-data-interaction-design-guide-63e3d0273cd2 )
-
-* **Designing Data-Driven Interfaces** ( https://blog.truthlabs.com/designing-data-driven-interfaces-a75d62997631 )
+* Scott Reinhard  （ https://scottreinhard.com/Mapping-and-Visualization ）
