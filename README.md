@@ -112,6 +112,8 @@
 
 * **StoryFlow: Tracking the Evolution of Stories** （ http://www.shixialiu.com/publications/storyflow/index.html ）
 
+* **storyscript**  Scripting system for expressing AVG stories, a DSL for AVG.js ( https://github.com/avgjs/storyscript ) 
+
 
 
 ## lib
