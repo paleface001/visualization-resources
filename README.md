@@ -116,6 +116,8 @@
 
 * **The Lifespan of News Stories** ( https://www.newslifespan.com/ )
 
+* **佛像面部表情分析** ( https://www.newslifespan.com/ )
+
 
 
 ## lib
