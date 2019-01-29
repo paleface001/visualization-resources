@@ -114,6 +114,8 @@
 
 * **Shifted Maps** ( https://shifted-maps.com/static/downloads/ShiftedMaps_Paper_IEEE_2018_VISAP.pdf )
 
+* **The Lifespan of News Stories** ( https://www.newslifespan.com/ )
+
 
 
 ## lib
