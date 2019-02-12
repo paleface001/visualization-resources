@@ -120,6 +120,8 @@
 
 * **on time everytime** ( http://tulpinteractive.com/on-time-every-time/ )
 
+* **Data Visualization in Music** ( https://towardsdatascience.com/data-visualization-in-music-11fcd702c893 )
+
 
 
 ## lib
