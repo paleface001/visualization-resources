@@ -127,6 +127,8 @@
 
 * **American segregation, mapped at day and night** （ https://www.vox.com/policy-and-politics/2019/2/18/18217346/work-home-segregation-map ）
 
+* **How Trump keeps losing money for his wall** （ https://www.washingtonpost.com/video/politics/how-trump-keeps-losing-money-for-his-wall/2019/02/14/4c1b5678-9b32-47aa-bc87-a7b0aa77e9b5_video.html?utm_term=.2a5902254bd5 ) 视频与图表结合，大师之作
+
 
 
 
