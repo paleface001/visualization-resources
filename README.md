@@ -125,6 +125,8 @@
 * **A Closer Look at the Polar Vortex’s Dangerously Cold Winds** ( https://www.nytimes.com/interactive/2019/01/30/science/polar-vortex-extreme-cold.html )
 ![](https://cdn.nlark.com/yuque/0/2019/png/100996/1549962628320-8c45028c-680f-42fd-b750-6aee49d0e304.png)
 
+* **American segregation, mapped at day and night** （ https://www.vox.com/policy-and-politics/2019/2/18/18217346/work-home-segregation-map ）
+
 
 
 
