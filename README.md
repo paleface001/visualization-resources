@@ -129,6 +129,10 @@
 
 * **How Trump keeps losing money for his wall** （ https://www.washingtonpost.com/video/politics/how-trump-keeps-losing-money-for-his-wall/2019/02/14/4c1b5678-9b32-47aa-bc87-a7b0aa77e9b5_video.html?utm_term=.2a5902254bd5 ) 视频与图表结合，大师之作
 
+* **Medieval fantasy city generator by Oleg Dolya** ( https://watabou.itch.io/medieval-fantasy-city-generator )  
+
+* **procedural generation reddit** ( https://www.reddit.com/r/proceduralgeneration/ ) 非常活跃的社区哦
+
 
 
 
