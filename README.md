@@ -133,6 +133,8 @@
 
 * **procedural generation reddit** ( https://www.reddit.com/r/proceduralgeneration/ ) 非常活跃的社区哦
 
+* **from text to shape from Leslie Robert** ( https://leslierobertsart.com/section/425019-Paintings-2016-18.html )
+
 
 
 
