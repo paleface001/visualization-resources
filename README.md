@@ -139,6 +139,8 @@
 
 * **migration · trail** （ https://migrationtrail.com/david ） （ https://blog.mapbox.com/visualizing-stories-of-migration-dbcbccd76dd9 ）
 
+* **The Shape of Speech** ( https://www.brainpickings.org/2013/08/28/nancy-duarte-mlk-speech/ )
+
 
 
 
