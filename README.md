@@ -141,6 +141,8 @@
 
 * **The Shape of Speech** ( https://www.brainpickings.org/2013/08/28/nancy-duarte-mlk-speech/ )
 
+* **How to use open source satellite data for your investigative reporting** （ https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90 ）
+
 
 
 
