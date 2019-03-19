@@ -143,6 +143,8 @@
 
 * **How to use open source satellite data for your investigative reporting** （ https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90 ）
 
+* **The Shape Of Cities - a tale of five cities and how they grow** ( https://www.nationalgeographic.com/magazine/2019/04/maps-show-how-public-transit-and-geography-shape-cities/ )
+
 
 
 
