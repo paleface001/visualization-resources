@@ -147,6 +147,8 @@
 
 * **TULP interactive** ( http://tulpinteractive.com/ ) 非常不错的作品集，station小哥就是其中之一哦
 
+* **Visualize your data with Facets** （ https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc ）
+
 
 
 
