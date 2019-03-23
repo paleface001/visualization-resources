@@ -99,6 +99,8 @@
 
 * **Reuters Graphics** ( http://graphics.reuters.com/ )
 
+* **Bloomberg Graphics** (  https://www.bloomberg.com/graphics )
+
 * **stroytelling 工具化** （ https://parametric.press/ ）
 
 * **A new dawnin inter-Korean relations**  非常新颖的时序数据解决方案 ( http://graphics.reuters.com/INTERKOREA-RELATIONS/010041MD3JB/index.html )
