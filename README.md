@@ -151,6 +151,8 @@
 
 * **Visualize your data with Facets** （ https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc ）
 
+* **CHARTABLE - a blog by data wrapper** ( https://blog.datawrapper.de/ )
+
 
 
 
