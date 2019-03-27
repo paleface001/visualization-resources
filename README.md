@@ -153,6 +153,8 @@
 
 * **CHARTABLE - a blog by data wrapper** ( https://blog.datawrapper.de/ )
 
+* **Visualizing nonlinear stories** （ https://flowingdata.com/2017/10/09/visualizing-nonlinear-stories/ ）
+
 
 
 
