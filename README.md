@@ -162,6 +162,7 @@
 
 
 
+
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
 * 风格化2 （ https://github.com/pshihn/rough ）
@@ -178,6 +179,8 @@
 ![](https://cdn.nlark.com/lark/0/2018/jpeg/101986/1534993634298-2e1ab801-6eb8-418e-be03-bcc6a6ee9be4.jpeg)
 
 * tsne - layout  ( https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e )
+
+* How the BBC Visual and Data Journalism team works with graphics in R （ https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535 ）
 
 
 ## designer
