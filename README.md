@@ -162,6 +162,8 @@
 * **Nations in Bloom** （ http://romercreative.com/bloom/ ）
 ![](https://cdn.nlark.com/yuque/0/2019/png/100996/1554281091183-d656a76f-96d1-4a08-9edf-3b7bf5e3418b.png)
 
+* **The World of Small Countries** （ https://drawingdata.net/wgs2019/ ）线性叙事和交互式探索的合体
+
 
 
 
