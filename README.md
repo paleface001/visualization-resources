@@ -169,6 +169,8 @@
 * **why do cats and dogs ？** （ https://whydocatsanddogs.com/  https://www.visualcinnamon.com/2019/04/designing-google-cats-and-dogs） with Google Trends
 
 * **Mistakes, we’ve drawn a few** （ https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368 ）
+
+* **story explorer** ( http://storyexplorer.namwkim.org/ )
  
 
 
