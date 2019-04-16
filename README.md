@@ -170,7 +170,7 @@
 
 * **Mistakes, we’ve drawn a few** （ https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368 ）
 
-* **story explorer** ( http://storyexplorer.namwkim.org/ )
+* **story explorer** ( http://storyexplorer.namwkim.org/ ) ( https://flowingdata.com/2017/10/09/visualizing-nonlinear-stories/ )
  
 
 
