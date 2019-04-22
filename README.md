@@ -171,6 +171,10 @@
 * **Mistakes, we’ve drawn a few** （ https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368 ）
 
 * **story explorer** ( http://storyexplorer.namwkim.org/ ) ( https://flowingdata.com/2017/10/09/visualizing-nonlinear-stories/ )
+
+* **Story Maps** （ https://storymaps.arcgis.com/zh-cn/  ）
+
+* **Techniques for Data Visualization on both Mobile & Desktop** （ https://www.visualcinnamon.com/2019/04/mobile-vs-desktop-dataviz  ）
  
 
 
