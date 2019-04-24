@@ -175,10 +175,9 @@
 * **Story Maps** （ https://storymaps.arcgis.com/zh-cn/  ）
 
 * **Techniques for Data Visualization on both Mobile & Desktop** （ https://www.visualcinnamon.com/2019/04/mobile-vs-desktop-dataviz  ）
+
+* **The Beginner's Guide to Dimensionality Reduction** （ https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/  ）
  
-
-
-
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
