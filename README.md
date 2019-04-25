@@ -177,6 +177,8 @@
 * **Techniques for Data Visualization on both Mobile & Desktop** （ https://www.visualcinnamon.com/2019/04/mobile-vs-desktop-dataviz  ）
 
 * **The Beginner's Guide to Dimensionality Reduction** （ https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/  ）
+
+* **数据库本身成为视觉故事** ( http://r.mailpusher.eu/mk/mr/qjGwQ0Ypnwko2IF0onwxBwOUeRhBuB3nwactMisei9HFDuewFCKfL3AbFDSJOkQ8pQQFmf0HdVbD9TgwIHluNUOp1Va3BsBgGvo  )
  
 
 ## lib
