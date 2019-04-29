@@ -181,6 +181,9 @@
 * **数据库本身成为视觉故事** ( http://r.mailpusher.eu/mk/mr/qjGwQ0Ypnwko2IF0onwxBwOUeRhBuB3nwactMisei9HFDuewFCKfL3AbFDSJOkQ8pQQFmf0HdVbD9TgwIHluNUOp1Va3BsBgGvo  )
  
 
+* **the functional art** ( http://www.thefunctionalart.com/ ) 《how charts lie》作者的网站
+
+
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
 * 风格化2 （ https://github.com/pshihn/rough ）
