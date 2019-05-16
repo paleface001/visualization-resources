@@ -183,6 +183,10 @@
 
 * **the functional art** ( http://www.thefunctionalart.com/ ) 《how charts lie》作者的网站
 
+* **2019 vote EU** ( http://2019vote.eu/ ) 实用又有趣的交互可视化
+
+* **TRAILS OF WIND - The architecture of airport runways** （ https://trailsofwind.figures.cc/ ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
