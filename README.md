@@ -207,6 +207,10 @@
 
 * How the BBC Visual and Data Journalism team works with graphics in R （ https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535 ）
 
+* BEAUTY BRAWL （How inclusive are beauty brands around the world?）数据分析、故事讲述和图表的结合非常有趣
+
+* Amber Thomas （ https://pudding.cool/author/amber-thomas/ ） 制作上面那则故事的小姐姐 
+
 
 ## designer
 
