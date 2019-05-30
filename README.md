@@ -187,6 +187,8 @@
 
 * **TRAILS OF WIND - The architecture of airport runways** （ https://trailsofwind.figures.cc/ ）
 
+* **Visualization Design Lab - Utha Univesity** ( https://vdl.sci.utah.edu/  )
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
