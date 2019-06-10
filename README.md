@@ -191,6 +191,8 @@
 
 * **Data-Driven Storytelling** 微软的一系列可视化叙事工具集，非常有趣（https://www.microsoft.com/en-us/research/project/data-driven-storytelling/ ）
 
+* **https://infowetrust.com/** 非常有趣的可视化站子
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
