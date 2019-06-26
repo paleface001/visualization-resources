@@ -197,6 +197,8 @@
 
 * **FoamTree** ( https://carrotsearch.com/foamtree/ )
 
+* **Learning Synths** （ https://learningsynths.ableton.com/get-started/get-started-making-sounds ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
