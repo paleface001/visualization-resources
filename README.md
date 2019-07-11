@@ -213,6 +213,8 @@
 
 * **Explore Adventure** ( http://explore-adventure.com/ )
 
+* **Hierarchical Bar Chart** （ https://observablehq.com/@d3/hierarchical-bar-chart ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
