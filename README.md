@@ -219,6 +219,8 @@
 
 * **Nodes** ( http://nodes.io/story/ )
 
+* **SAP Fiori** ( https://experience.sap.com/fiori-design-web/ ) 一套GUI设计规则，可以看看interface和图表融合这一块
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
