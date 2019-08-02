@@ -227,6 +227,8 @@
 
 * **codex atlanticus**  （ https://codex-atlanticus.it/#/Overview  ） 关于书本的可视化
 
+* **Nomadic tribe** ( https://2019.makemepulse.com/ ) 可以玩的漫画
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
