@@ -229,6 +229,8 @@
 
 * **Nomadic tribe** ( https://2019.makemepulse.com/ ) 可以玩的漫画
 
+* **How Illinois Bet on Video Gambling and Lost** ( https://features.propublica.org/the-bad-bet/how-illinois-bet-on-video-gambling-and-lost/ ) 数据新闻直接用了deck.gl，以及图表和组件的状态驱动
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
