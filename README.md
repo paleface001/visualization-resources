@@ -231,6 +231,8 @@
 
 * **How Illinois Bet on Video Gambling and Lost** ( https://features.propublica.org/the-bad-bet/how-illinois-bet-on-video-gambling-and-lost/ ) 数据新闻直接用了deck.gl，以及图表和组件的状态驱动
 
+* **CARTO VL** （ https://carto.com/developers/carto-vl/guides/animated-visualizations/ ） a JavaScript library to create custom Location Intelligence applications over vector rendering.
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
