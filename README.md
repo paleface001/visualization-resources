@@ -233,6 +233,8 @@
 
 * **CARTO VL** （ https://carto.com/developers/carto-vl/guides/animated-visualizations/ ） a JavaScript library to create custom Location Intelligence applications over vector rendering.
 
+* **Drowning in plastic** （ https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B275155/index.html ） Visualising the world’s addiction to plastic bottles
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
