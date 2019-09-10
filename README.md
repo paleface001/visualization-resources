@@ -235,6 +235,8 @@
 
 * **Drowning in plastic** （ https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B275155/index.html ） Visualising the world’s addiction to plastic bottles
 
+* **How we went from individual styles to a consistent look-and-feel in the NZZ Graphics Team** ( https://medium.com/nzz-open/how-we-went-from-individual-styles-to-a-consistent-look-and-feel-in-the-nzz-graphics-team-89fd560d6632 )
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
