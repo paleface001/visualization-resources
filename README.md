@@ -265,6 +265,8 @@
 
 * TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization （ https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480 ）
 
+* **PhotoViz** the intersection of photography and visualization. （ https://photoviz.tumblr.com/ ）
+
 
 ## designer
 
