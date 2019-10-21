@@ -245,6 +245,7 @@
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
 * 风格化2 （ https://github.com/pshihn/rough ）
 * Mathesia ( https://www.mathesia.com/home/ ) 科学可视化
+* VIDA (Visualization and Interactive Data Analysis) Group  ( https://www.microsoft.com/en-us/research/group/vida/ )
 
 
 ## whatever
