@@ -242,6 +242,8 @@
 
 * **Kernel Density Estimation** （ https://mathisonian.github.io/kde/ ）
 
+* **Learning from Toronto** ( https://www.andreagiambelli.com/portfolio/lft-app/ )
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
