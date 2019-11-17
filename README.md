@@ -252,6 +252,8 @@
 
 * **A network of science: 150 years of Nature papers** ( https://www.youtube.com/watch?v=GW4s58u8PZo&feature=youtu.be )
 
+* **Foursquare Visualization on City Activities** （ https://experiments.cleverfranke.com/experiment/virtual-activity-of-cities ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
