@@ -256,6 +256,8 @@
 
 * **Runway Palette** （ https://experiments.withgoogle.com/business-of-fashion https://artsexperiments.withgoogle.com/runwaypalette ）
 
+* **首里城デジタル復元マップ** （ https://sw1227.github.io/shuri-reconstruction/ ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
