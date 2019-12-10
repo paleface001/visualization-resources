@@ -260,6 +260,8 @@
 
 * **scicom lab**  ( http://www.scicom-lab.com/ ) scientific visualization & interactive poster
 
+* **See How the World’s Most Polluted Air Compares With Your City’s** （ https://www.nytimes.com/interactive/2019/12/02/climate/air-pollution-compare-ar-ul.html ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
