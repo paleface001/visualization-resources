@@ -262,6 +262,8 @@
 
 * **See How the World’s Most Polluted Air Compares With Your City’s** （ https://www.nytimes.com/interactive/2019/12/02/climate/air-pollution-compare-ar-ul.html ）
 
+* **plot parade**  plot as art ( https://plotparade.com/index.html  https://www.informationisbeautifulawards.com/showcase/3922 )
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
