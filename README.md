@@ -264,6 +264,8 @@
 
 * **plot parade**  plot as art ( https://plotparade.com/index.html  https://www.informationisbeautifulawards.com/showcase/3922 )
 
+* **perspective** Streaming pivot visualization via WebAssembly （ https://github.com/finos/perspective/ ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
