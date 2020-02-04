@@ -266,6 +266,8 @@
 
 * **perspective** Streaming pivot visualization via WebAssembly （ https://github.com/finos/perspective/ ）
 
+* **Statistical Mapping (Enumeration, Normalization, Classification)**  ( https://gistbok.ucgis.org/bok-topics/2019-quarter-02/statistical-mapping-enumeration-normalization-classification )
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
