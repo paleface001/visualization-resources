@@ -268,7 +268,9 @@
 
 * **Statistical Mapping (Enumeration, Normalization, Classification)**  ( https://gistbok.ucgis.org/bok-topics/2019-quarter-02/statistical-mapping-enumeration-normalization-classification )
 
-* **武汉肺炎地图**   http://rocs.hu-berlin.de/viz/sgb/
+* **新冠肺炎地图**   http://rocs.hu-berlin.de/viz/sgb/
+
+* **Neural Network 3D Simulation** https://www.youtube.com/watch?v=3JQ3hYko51Y
 
 
 ## lib
