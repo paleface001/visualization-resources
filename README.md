@@ -269,6 +269,8 @@
 * **Statistical Mapping (Enumeration, Normalization, Classification)**  ( https://gistbok.ucgis.org/bok-topics/2019-quarter-02/statistical-mapping-enumeration-normalization-classification )
 
 * **新冠肺炎地图**   http://rocs.hu-berlin.de/viz/sgb/
+https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html
+https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html
 
 * **Neural Network 3D Simulation** https://www.youtube.com/watch?v=3JQ3hYko51Y
 
