@@ -307,6 +307,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **PhotoViz** the intersection of photography and visualization. （ https://photoviz.tumblr.com/ ）
 
+* **ChartIO: a visual version of SQL** ( https://chartio.com/product/visual-sql/ )
+
 
 ## designer
 
