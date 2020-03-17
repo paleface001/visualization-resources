@@ -278,6 +278,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Shirley Wu 的作品**  https://sxywu.com/
 
+* **Susie Lu** https://www.susielu.com/data-viz/d3-annotation-2
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
