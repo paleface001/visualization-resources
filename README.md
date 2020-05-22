@@ -315,6 +315,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **transformed verctor map** ( https://www.themarshallproject.org/2020/03/31/why-jails-are-so-important-in-the-fight-against-coronavirus )
 
+* **happy data**  dear data 升级版 (https://happy-data.co/)
+
 
 ## designer
 
