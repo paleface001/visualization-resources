@@ -317,6 +317,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **happy data**  dear data 升级版 (https://happy-data.co/)
 
+* **Charting new territory - How The Economist designs charts for Instagram**  ( https://medium.economist.com/charting-new-territory-7f5afb293270 )
+
 
 ## designer
 
