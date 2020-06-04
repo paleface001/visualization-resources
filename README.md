@@ -280,6 +280,17 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Susie Lu** https://www.susielu.com/data-viz/d3-annotation-2
 
+* **PhotoViz** the intersection of photography and visualization. （ https://photoviz.tumblr.com/ ）
+
+* **ChartIO: a visual version of SQL** ( https://chartio.com/product/visual-sql/ )
+
+* **transformed verctor map** ( https://www.themarshallproject.org/2020/03/31/why-jails-are-so-important-in-the-fight-against-coronavirus )
+
+* **happy data**  dear data 升级版 (https://happy-data.co/)
+
+* **Charting new territory - How The Economist designs charts for Instagram**  ( https://medium.economist.com/charting-new-territory-7f5afb293270 )
+
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
@@ -308,16 +319,6 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * Public Health in the USA: How Dataviz Moves Government Toward Equity （ https://medium.com/data-visualization-society/public-health-in-the-usa-how-data-viz-noves-government-toward-equity-fd096e109845 ） 
 
 * TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization （ https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480 ）
-
-* **PhotoViz** the intersection of photography and visualization. （ https://photoviz.tumblr.com/ ）
-
-* **ChartIO: a visual version of SQL** ( https://chartio.com/product/visual-sql/ )
-
-* **transformed verctor map** ( https://www.themarshallproject.org/2020/03/31/why-jails-are-so-important-in-the-fight-against-coronavirus )
-
-* **happy data**  dear data 升级版 (https://happy-data.co/)
-
-* **Charting new territory - How The Economist designs charts for Instagram**  ( https://medium.economist.com/charting-new-territory-7f5afb293270 )
 
 
 ## designer
