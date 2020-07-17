@@ -290,6 +290,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Charting new territory - How The Economist designs charts for Instagram**  ( https://medium.economist.com/charting-new-territory-7f5afb293270 )
 
+* **A million dollars vs. a billion visualized with a road trip** （ https://flowingdata.com/2020/07/16/a-million-dollars-vs-a-billion-visualized-with-a-road-trip/ ）
+
 
 
 ## lib
