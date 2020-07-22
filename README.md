@@ -294,6 +294,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Variable io: Case study: IBM Technology Garden** （ https://notes.variable.io/case-study-ibm-technology-garden-3a4f0b274de5 ）
 
+* **mapzilla** （ https://mapzilla.co.uk/ ）
+
 
 
 ## lib
@@ -323,6 +325,7 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * Public Health in the USA: How Dataviz Moves Government Toward Equity （ https://medium.com/data-visualization-society/public-health-in-the-usa-how-data-viz-noves-government-toward-equity-fd096e109845 ） 
 
 * TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization （ https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480 ）
+
 
 
 ## designer
