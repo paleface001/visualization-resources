@@ -292,6 +292,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **A million dollars vs. a billion visualized with a road trip** （ https://flowingdata.com/2020/07/16/a-million-dollars-vs-a-billion-visualized-with-a-road-trip/ ）
 
+* **Variable io: Case study: IBM Technology Garden** （ https://notes.variable.io/case-study-ibm-technology-garden-3a4f0b274de5 ）
+
 
 
 ## lib
