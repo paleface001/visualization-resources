@@ -296,6 +296,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **mapzilla** （ https://mapzilla.co.uk/ ）
 
+* **Perfume  给小姐姐们跪了** ( https://perfume-global.com/ ) 
+
 
 
 ## lib
