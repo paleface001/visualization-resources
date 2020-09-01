@@ -300,6 +300,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Ancient Family Tree: Am I a Descendant of a Royal Family? ** （ https://www.zeelab.xyz/Ancient-Family-Tree-Am-I-a-Descendant-of-a-Royal-Family-Best-Paper ）（ https://www.youtube.com/watch?v=nEovLXTSNGg ）
 
+* **Symbol Chart** ( https://flowingdata.com/2014/01/21/movie-quotes-as-charts-poster-edition/ ) (https://flowingdata.com/2018/01/16/back-to-the-future-abridged-chart/)
+
 
 
 ## lib
