@@ -302,6 +302,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Symbol Chart** ( https://flowingdata.com/2014/01/21/movie-quotes-as-charts-poster-edition/ ) (https://flowingdata.com/2018/01/16/back-to-the-future-abridged-chart/)
 
+* **The Battleground States Biden and Trump Need to Win 270 by NewYork Times**  ( https://www.nytimes.com/interactive/2020/us/elections/election-states-biden-trump.html ) 非常精彩的作品 
+
 
 
 ## lib
