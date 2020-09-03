@@ -304,6 +304,9 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **The Battleground States Biden and Trump Need to Win 270 by NewYork Times**  ( https://www.nytimes.com/interactive/2020/us/elections/election-states-biden-trump.html ) 非常精彩的作品 
 
+* **refikanadol: immersive visualization**  (http://refikanadol.com/ )
+![](https://gw.alipayobjects.com/mdn/rms_187654/afts/img/A*9RJFQKdVUXoAAAAAAAAAAAAAARQnAQ)
+
 
 
 ## lib
@@ -311,6 +314,7 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * 风格化2 （ https://github.com/pshihn/rough ）
 * Mathesia ( https://www.mathesia.com/home/ ) 科学可视化
 * VIDA (Visualization and Interactive Data Analysis) Group  ( https://www.microsoft.com/en-us/research/group/vida/ )
+
 
 
 ## whatever
@@ -333,6 +337,9 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * Public Health in the USA: How Dataviz Moves Government Toward Equity （ https://medium.com/data-visualization-society/public-health-in-the-usa-how-data-viz-noves-government-toward-equity-fd096e109845 ） 
 
 * TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization （ https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480 ）
+
+
+
 
 
 
