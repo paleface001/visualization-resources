@@ -308,6 +308,9 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 ![](https://gw.alipayobjects.com/mdn/rms_187654/afts/img/A*9RJFQKdVUXoAAAAAAAAAAAAAARQnAQ)
 
 
+* **Why time feels so weird in 2020** （ https://graphics.reuters.com/HEALTH-CORONAVIRUS/TIME/gjnvwwjegvw/ ）
+
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
