@@ -355,3 +355,5 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 ## designer
 
 * Scott Reinhard  （ https://scottreinhard.com/Mapping-and-Visualization ）
+
+* Felipe Bedoya  （ https://felipebedoya.work/  ）  超喜欢他的风格
