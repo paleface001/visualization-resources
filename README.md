@@ -312,6 +312,10 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Visual Cinnamon** (  https://www.visualcinnamon.com/portfolio/  ) 
 
+* **Financial Times Graphics** ( https://www.ft.com/graphics ) 
+
+* **visualising data** ( https://www.visualisingdata.com/resources/ ) 
+
 
 
 ## lib
