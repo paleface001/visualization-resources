@@ -351,6 +351,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * ancestry-connect （ https://www.jennifert.me/ancestry-connect ） 
 
+* 中国古典文学研究的几种可视化途径——以汤显祖研究为例 (  http://www.zjujournals.com/soc/article/2018/1008-942X-48-2-164.html#close  )
+
 
 
 ## designer
