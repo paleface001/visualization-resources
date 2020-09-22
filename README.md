@@ -349,8 +349,7 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization （ https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480 ）
 
-
-
+* ancestry-connect （ https://www.jennifert.me/ancestry-connect ） 
 
 
 
