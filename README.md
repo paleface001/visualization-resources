@@ -353,6 +353,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * 中国古典文学研究的几种可视化途径——以汤显祖研究为例 (  http://www.zjujournals.com/soc/article/2018/1008-942X-48-2-164.html#close  )
 
+* **When Data visualization and Art Collide With the Humble Org Chart** ( https://medium.com/nightingale/when-data-visualization-and-art-collide-with-the-humble-org-chart-647a2df46c5c )
+
 
 
 ## designer
