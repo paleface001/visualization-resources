@@ -320,6 +320,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **The Colors of Jean Giraud aka Mœbius** ( https://moebius.colortheft.com/#comics/ )  神作！
 
+* **Reconstructing seven days of protests in Minneapolis after George Floyd’s death**（ https://www.washingtonpost.com/graphics/2020/national/live-stream-george-floyd-protests/ ）
+
 
 
 ## lib
