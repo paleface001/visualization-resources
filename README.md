@@ -325,6 +325,10 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **Reconstructing seven days of protests in Minneapolis after George Floyd’s death**（ https://www.washingtonpost.com/graphics/2020/national/live-stream-george-floyd-protests/ ）
 
 * **The Swamp That Trump Built** （https://www.nytimes.com/interactive/2020/10/10/us/trump-properties-swamp.html ） photo,figure,visualization
+
+* **CDV: computational & visualization lab** ( https://cdv.dei.uc.pt/ )
+
+* ** **artificial nature** (https://artificialnature.net/ )
  
 
 
