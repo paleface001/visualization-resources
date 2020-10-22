@@ -371,6 +371,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **When Data visualization and Art Collide With the Humble Org Chart** ( https://medium.com/nightingale/when-data-visualization-and-art-collide-with-the-humble-org-chart-647a2df46c5c )
 
+* **Finally We May Have a Path to the Fundamental Theory of Physics and It’s Beautiful** （ https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/ ）
+
 
 
 ## designer
