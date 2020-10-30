@@ -316,6 +316,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Financial Times Graphics** ( https://www.ft.com/graphics ) 
 
+* **Financial Times Visualization**     ( https://www.ft.com/data-visualisation )
+
 * **visualising data** ( https://www.visualisingdata.com/resources/ ) 
 
 * **Static and dynamic network visualization** ( https://kateto.net/network-visualization )
