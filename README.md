@@ -343,6 +343,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **Simulating Natural Selection** （ https://www.youtube.com/watch?v=0ZGbIKd0XrM  ）
 
 * **The Shape of Dreams** （ http://the-shape-of-dreams.com/#/ ）
+
+* **The Electoral College, explained** （ https://www.youtube.com/watch?v=ajavsMbCapY ）
  
 
 
