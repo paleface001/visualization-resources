@@ -349,6 +349,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **A look at the 98 ice cream flavors available around the world** ( https://benjerry.heshlindsdataviz.com/#countriesSection )
 
 * **POMPEII** by nature ( https://www.alhadaqa.com/pompeii/ )
+
+* **FABFUNGUS：art installation inspired by questions of digital life and cellular growth** （ https://szymonkaliski.com/projects/fabfungus/ ）
  
 
 
