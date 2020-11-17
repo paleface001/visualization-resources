@@ -351,6 +351,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **POMPEII** by nature ( https://www.alhadaqa.com/pompeii/ )
 
 * **FABFUNGUS：art installation inspired by questions of digital life and cellular growth** （ https://szymonkaliski.com/projects/fabfungus/ ）
+
+* **The new Republican center of gravity** ( https://www.theguardian.com/us-news/ng-interactive/2016/may/14/who-supports-donald-trump-the-new-republican-center-of-gravity )
  
 
 
