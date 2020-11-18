@@ -395,6 +395,10 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Finally We May Have a Path to the Fundamental Theory of Physics and It’s Beautiful** （ https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/ ）
 
+* **NASA Scientific Visualization Studio** ( https://svs.gsfc.nasa.gov/ )
+
+* **ScienceDaily - Scientific visualization** ( https://www.sciencedaily.com/terms/scientific_visualization.htm )
+
 
 
 ## designer
