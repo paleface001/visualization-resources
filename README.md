@@ -353,6 +353,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **FABFUNGUS：art installation inspired by questions of digital life and cellular growth** （ https://szymonkaliski.com/projects/fabfungus/ ）
 
 * **The new Republican center of gravity** ( https://www.theguardian.com/us-news/ng-interactive/2016/may/14/who-supports-donald-trump-the-new-republican-center-of-gravity )
+
+* **How we watched the election at Stamen: our favorite maps and charts of 2020** （ https://hi.stamen.com/how-we-watched-the-election-at-stamen-fd3cedae7ed9 ）
  
 
 
