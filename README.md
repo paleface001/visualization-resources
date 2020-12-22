@@ -359,6 +359,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **Open source building blocks for computational design. Est.2006**  ( https://thi.ng/ )
 
 * **Tudor Networks** （ http://tudornetworks.net/ ） 
+
+* **The 40 Weirdest (And Best) Charts** （ https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/ ）
  
 
 
