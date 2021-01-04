@@ -366,7 +366,7 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **cnn-explainer** （ https://poloclub.github.io/cnn-explainer/ ） （ https://poloclub.github.io/ ）
 
-* **Blockchain explained by reuters graphic (  http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html ) 
+* **Blockchain explained by reuters graphic** (  http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html ) 
  
 
 
