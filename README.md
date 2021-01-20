@@ -371,6 +371,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **2020: The Year in Visual Stories and Graphics** ( https://www.nytimes.com/interactive/2020/12/30/us/2020-year-in-graphics.html )
 
 * **Creative Machine Learning Experiments Showcase** ( https://medium.com/runwayml/creative-machine-learning-experiments-showcase-4cbdafa0ce42 )
+
+* ** https://www.no-fishing.net/
  
 
 
