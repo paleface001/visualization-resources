@@ -377,7 +377,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **Stopping the spread**  （ https://graphics.reuters.com/HEALTH-CORONAVIRUS/HERD%20IMMUNITY%20(EXPLAINER)/gjnvwayydvw/index.html ）
 
 * **tudor networks** ( http://tudornetworks.net/ )
- 
+
+* **The Glorious Data Visualisations of Kohei Sugiur** ( http://www.paperposts.me/posts/2018/3/17/glorious-japanese-data-visualisation ) 
 
 
 ## lib
