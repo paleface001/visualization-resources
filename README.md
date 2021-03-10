@@ -380,6 +380,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **The Glorious Data Visualisations of Kohei Sugiur** ( http://www.paperposts.me/posts/2018/3/17/glorious-japanese-data-visualisation ) 
 
+* **A.I. love story** （ https://pudding.cool/2021/03/love-and-ai/ ） 
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
