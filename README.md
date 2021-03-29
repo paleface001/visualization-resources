@@ -424,6 +424,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **ScienceDaily - Scientific visualization** ( https://www.sciencedaily.com/terms/scientific_visualization.htm )
 
+* **Wine & Math** ( https://pudding.cool/2021/03/wine-model/ )
+
 
 
 
