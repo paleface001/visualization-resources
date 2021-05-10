@@ -382,7 +382,7 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **A.I. love story** （ https://pudding.cool/2021/03/love-and-ai/ ） 
 
-* **sound shader** sound visualization & glsl ( https://soundshader.github.io/  )
+* **sound shader** sound visualization & glsl ( https://soundshader.github.io/  https://github.com/soundshader/soundshader.github.io )
 
 
 ## lib
@@ -429,6 +429,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **Wine & Math** ( https://pudding.cool/2021/03/wine-model/ )
 
 * **BATS and the ORIGIN of OUTBREAKS** ( https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/ )
+
+
 
 
 
