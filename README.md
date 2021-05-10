@@ -382,6 +382,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **A.I. love story** （ https://pudding.cool/2021/03/love-and-ai/ ） 
 
+* **sound shader** sound visualization & glsl ( https://soundshader.github.io/  )
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
