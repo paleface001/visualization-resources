@@ -384,20 +384,7 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **sound shader** sound visualization & glsl ( https://soundshader.github.io/  https://github.com/soundshader/soundshader.github.io )
 
-
-## lib
-* 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
-* 风格化2 （ https://github.com/pshihn/rough ）
-* Mathesia ( https://www.mathesia.com/home/ ) 科学可视化
-* VIDA (Visualization and Interactive Data Analysis) Group  ( https://www.microsoft.com/en-us/research/group/vida/ )
-
-
-
-## whatever
-
-* Beyond Interactive: Notebook Innovation at Netflix [url](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
-
-* Designing the nteract Data Explorer [url](https://blog.nteract.io/designing-the-nteract-data-explorer-f4476d53f897)
+* Designing the interact Data Explorer [url](https://blog.nteract.io/designing-the-nteract-data-explorer-f4476d53f897)
 
 * 使用L系统可视化TWITTER数据：Visualizing Toxicity in Twitter Conversations [url](https://medium.com/cortico/visualizing-toxicity-in-twitter-conversations-3cd336e5db81)
 ![](https://cdn.nlark.com/lark/0/2018/jpeg/101986/1534993634298-2e1ab801-6eb8-418e-be03-bcc6a6ee9be4.jpeg)
@@ -433,6 +420,14 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **用houdini做CNN visualizer** ( overview: http://visuality.at/vis2/index.html   detail: http://visuality.at/vis2/detail.html  ) 
 
 * **biocinematics - 一个用houdini做科学可视化的博主** （ 之前的blog: https://biocinematics.blogspot.com/ , 现在的blog: https://www.biocinematics.com/ , 一个非常amazing的作品： https://www.biocinematics.com/blog/2019/6/25/are-you-really-a-carbon-based-life-form ）
+
+
+
+## lib
+* 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
+* 风格化2 （ https://github.com/pshihn/rough ）
+* Mathesia ( https://www.mathesia.com/home/ ) 科学可视化
+* VIDA (Visualization and Interactive Data Analysis) Group  ( https://www.microsoft.com/en-us/research/group/vida/ )
 
 
 ## designer
