@@ -421,6 +421,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **biocinematics - 一个用houdini做科学可视化的博主** （ 之前的blog: https://biocinematics.blogspot.com/ , 现在的blog: https://www.biocinematics.com/ , 一个非常amazing的作品： https://www.biocinematics.com/blog/2019/6/25/are-you-really-a-carbon-based-life-form ）
 
+* **Raft visualization - Understandable Distributed Consensus**  ( http://thesecretlivesofdata.com/raft/ )
+
 
 
 ## lib
