@@ -423,6 +423,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Raft visualization - Understandable Distributed Consensus**  ( http://thesecretlivesofdata.com/raft/ )
 
+* **Video game news** ( https://dataveyes.com/en/projects/cite-des-sciences-jeu-video/ )
+
 
 
 ## lib
