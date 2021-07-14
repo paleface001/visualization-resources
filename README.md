@@ -425,6 +425,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Video game news** ( https://dataveyes.com/en/projects/cite-des-sciences-jeu-video/ )
 
+* **UEFA 2020 chart gallery** ( https://plotparade.com/gallery_UEFA.html  )
+
 
 
 ## lib
