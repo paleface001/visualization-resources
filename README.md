@@ -427,6 +427,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **UEFA 2020 chart gallery** ( https://plotparade.com/gallery_UEFA.html  )
 
+* **one amongst many** 把数据转成手制装置 ( https://www.datasketch.es/project/one-amongst-many )
+
 
 
 ## lib
