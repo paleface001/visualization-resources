@@ -429,6 +429,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **one amongst many** 把数据转成手制装置 ( https://www.datasketch.es/project/one-amongst-many )
 
+* **Dressel vs. Phelps. McLaughlin vs. Muhammad. Visualizing Olympic Champions, Present vs. Past** 大师之作，非常有创意的奥运图表  （ https://www.nytimes.com/interactive/2021/08/07/sports/olympics/olympic-races.html ）
+
 
 
 ## lib
