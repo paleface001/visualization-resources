@@ -431,6 +431,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Dressel vs. Phelps. McLaughlin vs. Muhammad. Visualizing Olympic Champions, Present vs. Past** 大师之作，非常有创意的奥运图表  （ https://www.nytimes.com/interactive/2021/08/07/sports/olympics/olympic-races.html ）
 
+* **All the Biomass of Earth, in One Graphic** 很久没看到这么棒的infographics了（ https://www.visualcapitalist.com/all-the-biomass-of-earth-in-one-graphic/  ）
+
 
 
 ## lib
