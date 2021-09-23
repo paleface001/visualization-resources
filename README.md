@@ -437,6 +437,10 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **The Unified hour** 可交互的 3D 可视化 （ https://the-unified-hour.interactivethings.io/#/?_k=yfvrt7 ）
 
+* **被生长的航线照亮的地图** （  https://twitter.com/geo_spatialist/status/1440737849632968708 ）
+
+* **3D地球版边绑定** （  https://twitter.com/tylermorganwall/status/1440669533157556227 ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
