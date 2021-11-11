@@ -182,7 +182,6 @@
 
 * **数据库本身成为视觉故事** ( http://r.mailpusher.eu/mk/mr/qjGwQ0Ypnwko2IF0onwxBwOUeRhBuB3nwactMisei9HFDuewFCKfL3AbFDSJOkQ8pQQFmf0HdVbD9TgwIHluNUOp1Va3BsBgGvo  )
  
-
 * **the functional art** ( http://www.thefunctionalart.com/ ) 《how charts lie》作者的网站
 
 * **2019 vote EU** ( http://2019vote.eu/ ) 实用又有趣的交互可视化
@@ -440,6 +439,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * **被生长的航线照亮的地图** （  https://twitter.com/geo_spatialist/status/1440737849632968708 ）
 
 * **3D地球版边绑定** （  https://twitter.com/tylermorganwall/status/1440669533157556227 ）
+
+* **Master Piece: 将泰晤士河做成堆叠条形图** （ https://twitter.com/helenmakesmaps/status/1458463391664771072  ） 
 
 
 ## lib
