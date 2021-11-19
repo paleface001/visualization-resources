@@ -442,6 +442,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Master Piece: 将泰晤士河做成堆叠条形图** （ https://twitter.com/helenmakesmaps/status/1458463391664771072  ） 
 
+* **同一位作者的mater piece: 横截面height field** （ https://twitter.com/helenmakesmaps/status/1461290605015937028  ） 
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
