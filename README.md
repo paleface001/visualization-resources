@@ -444,6 +444,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **同一位作者的mater piece: 横截面height field** （ https://twitter.com/helenmakesmaps/status/1461290605015937028  ） 
 
+* **fry-universe**  （  https://www.chris-williams.me/fry-universe ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
