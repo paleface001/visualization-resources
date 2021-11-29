@@ -453,6 +453,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 * Mathesia ( https://www.mathesia.com/home/ ) 科学可视化
 * VIDA (Visualization and Interactive Data Analysis) Group  ( https://www.microsoft.com/en-us/research/group/vida/ )
 
+* **Design Inspiration for Unique Visualization with Diatoms**  （ https://engineering.tableau.com/design-inspiration-for-unique-visualization-with-diatoms-97a03361e9 ）
+
 
 ## designer
 
