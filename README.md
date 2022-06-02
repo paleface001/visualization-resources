@@ -450,6 +450,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **GEOSPATIAL NETWORK VISUALIZATION** （ https://geonetworks.github.io/ ）
 
+* **很多 visualization analysis 的 paper 可以看看   （ https://www.aviz.fr/Research/Publications ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
