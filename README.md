@@ -454,6 +454,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **brilliant unit visualization across view**  ( https://twitter.com/JeanRemiKing/status/1533720262344073218  )
 
+* **From Abstraction to Realism and Back** （ http://marcinignac.com/blog/from-abstraction-to-realism-and-back/  ）
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
