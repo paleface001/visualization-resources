@@ -456,6 +456,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **From Abstraction to Realism and Back** （ http://marcinignac.com/blog/from-abstraction-to-realism-and-back/  ）
 
+* brilliant  **A Visual Guide to the Aztec Pantheon**   ( https://pudding.cool/2022/06/aztec-gods/ )
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
