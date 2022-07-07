@@ -458,6 +458,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * brilliant  **A Visual Guide to the Aztec Pantheon**   ( https://pudding.cool/2022/06/aztec-gods/ )
 
+* **Tools to Design or Visualize Architecture of Neural Network** ( https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network )
+
 
 ## lib
 * 2d图表的风格化 [url](https://emeeks.github.io/semiotic/#/semiotic/usingpatterns) 
