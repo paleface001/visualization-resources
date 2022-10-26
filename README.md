@@ -469,6 +469,8 @@ https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.
 
 * **Design Inspiration for Unique Visualization with Diatoms**  （ https://engineering.tableau.com/design-inspiration-for-unique-visualization-with-diatoms-97a03361e9 ）
 
+* ** generative art studio  ( https://rarevolume.com/work/  )
+
 
 ## designer
 
